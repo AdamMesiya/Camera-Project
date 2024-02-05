@@ -1,4 +1,5 @@
 {
+    "id": "7386f8c5-2562-4005-8cb3-4793fe5e815e",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -264,7 +265,7 @@
                 },
                 "editable": true,
                 "onChangeText": "function(e){SI().f[2]++,SI().s[12]++,this.properties.Text=e}",
-                "placeholderTextColor": "rgba(117, 117, 117, 1)",
+                "placeholderTextColor": "rgba(0, 0, 0, 1)",
                 "secureTextEntry": false,
                 "clearButtonMode": "never",
                 "underlineColorAndroid": "rgba(0, 0, 0, 0)",
@@ -280,7 +281,6 @@
             "name": "Text_Input1"
         }
     ],
-    "id": "7386f8c5-2562-4005-8cb3-4793fe5e815e",
     "thunkableVersion": 443,
     "name": "Main Menu"
 }
